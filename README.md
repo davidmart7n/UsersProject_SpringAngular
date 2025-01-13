@@ -24,3 +24,11 @@ Make sure to configure your database connection in the backend application.
 - Angular
 - MySQL
 - Spring Security
+
+  ## Screenshots:
+
+### Login Screen
+![Login Screen](assets/images/screenshot1.png)
+
+### Admin Dashboard
+![Admin Dashboard](assets/images/screenshot2.png)
