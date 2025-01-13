@@ -25,9 +25,9 @@ Make sure to configure your database connection in the backend application.
 - MySQL
 - Spring Security
 
-# Admin credentials:
--Username: "admin"
--Password: "12345"
+### Admin credentials:
+- Username: "admin"
+- Password: "12345"
   ## Screenshots:
 
 ### Login Screen
