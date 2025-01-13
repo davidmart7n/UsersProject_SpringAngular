@@ -28,7 +28,13 @@ Make sure to configure your database connection in the backend application.
   ## Screenshots:
 
 ### Login Screen
-![Login Screen](assets/images/screenshot1.png)
+![Login Screen](https://github.com/davidmart7n/UsersProject_SpringAngular/blob/main/app-screenshots/Captura%20de%20pantalla%202025-01-13%20134854.png)
 
 ### Admin Dashboard
-![Admin Dashboard](assets/images/screenshot2.png)
+![Admin Dashboard](https://github.com/davidmart7n/UsersProject_SpringAngular/blob/main/app-screenshots/Captura%20de%20pantalla%202025-01-13%20141813.png)
+
+### More
+![](https://github.com/davidmart7n/UsersProject_SpringAngular/blob/main/app-screenshots/Captura%20de%20pantalla%202025-01-13%20142101.png)
+![](https://github.com/davidmart7n/UsersProject_SpringAngular/blob/main/app-screenshots/Captura%20de%20pantalla%202025-01-13%20142113.png)
+![](https://github.com/davidmart7n/UsersProject_SpringAngular/blob/main/app-screenshots/Captura%20de%20pantalla%202025-01-13%20142020.png)
+
